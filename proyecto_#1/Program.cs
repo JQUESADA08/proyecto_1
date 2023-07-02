@@ -188,6 +188,7 @@ namespace proyecto__1
                         case 8:
                             Console.WriteLine("Ingrese la edad desde donde se comenzara a buscar:");
                             edadDesde = int.Parse(Console.ReadLine());
+
                             Console.WriteLine("Ingrese la edad hasta donde se comenzara a buscar:");
                             edadHasta = int.Parse(Console.ReadLine());
 
